@@ -5,6 +5,8 @@ public class Automation {
 	public void auto()
 	{
 		
+		
+		
 	}
 
 }
